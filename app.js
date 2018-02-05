@@ -2,7 +2,7 @@
 const app = require('./config/server')
 
 
-/*parametrizar posta*/
+/*parametrizar porta*/
 
 const server = app.listen(3001, () => {
     console.log('Servidor subiu')
