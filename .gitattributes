@@ -1,1 +1,1 @@
-app/views* linguist-vendored
+*.js linguist-language=Html
