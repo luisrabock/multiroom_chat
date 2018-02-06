@@ -1,1 +1,2 @@
-*.js linguist-language=Html
+* linguist-vendored
+*.js linguist-vendored=false
